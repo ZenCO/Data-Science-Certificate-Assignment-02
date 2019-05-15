@@ -26,7 +26,13 @@ The code above appears to work.  It appears to be assigning "my_variable" a valu
 
 So I don't understand what is wrong with it.
 
-The only thing I can think of is that it should be {r error = TRUE}
+In order to double check it, I changed the code to error = FALSE (which should cause knitting to fail... and it still worked)
+
+
+*REVISED ANSWER*
+
+my_varıable - the i in variable is missing the dot.  no flipping clue what that character is... but I am also equally confused as to why it still delivered the answer of 10.  But that is the final answer.
+
     `<ANSWER ABOVE>`
     
     
