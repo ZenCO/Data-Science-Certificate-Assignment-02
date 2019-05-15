@@ -25,6 +25,8 @@ output: html_document
 The code above appears to work.  It appears to be assigning "my_variable" a value of 10.  When "my_variable" is called in, you get the value of 10.
 
 So I don't understand what is wrong with it.
+
+The only thing I can think of is that it should be {r error = TRUE}
     `<ANSWER ABOVE>`
     
     
