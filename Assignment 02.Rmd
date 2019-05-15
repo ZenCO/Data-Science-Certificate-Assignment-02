@@ -22,7 +22,9 @@ output: html_document
     
     
     `<ANSWER BELOW>`
-    PUT YOUR ANSWER HERE
+The code above appears to work.  It appears to be assigning "my_variable" a value of 10.  When "my_variable" is called in, you get the value of 10.
+
+So I don't understand what is wrong with it.
     `<ANSWER ABOVE>`
     
     
@@ -31,11 +33,17 @@ output: html_document
 
 
     `<ANSWER BELOW>`
-    PUT YOUR ANSWER HERE
+The Keyboard Shortcut Quick Reference shows up.  You can also go to *Tools* and select *Keyboard Shortcuts Help*
     `<ANSWER ABOVE>`
 
 
 
 #### Bonus - what happens if you hit "knit"?
+
+    `<ANSWER BELOW>`
+I am assuming you mean that we go to *File* and click *Knit Document*... which can also be accomplished by pressing *Ctrl + Shift + K*...
+
+On line 5, the output is a HTML Document.  So by knitting it, does it execute it the code as an HTML document?
+    `<ANSWER ABOVE>`
 
 #### Remember to commit your changes and push to your repository
